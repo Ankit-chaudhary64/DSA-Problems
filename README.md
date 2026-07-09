@@ -10,6 +10,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0002-add-two-numbers/) | Medium |
+| [0066-plus-one](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0066-plus-one/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,4 +32,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0066-plus-one](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0066-plus-one/) | Easy |
 <!---LeetCode Topics End-->

@@ -34,5 +34,14 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0066-plus-one](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0066-plus-one/) | Easy |
+| [0217-contains-duplicate](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0283-move-zeroes/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0217-contains-duplicate/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->

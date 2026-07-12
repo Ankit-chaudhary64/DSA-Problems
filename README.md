@@ -39,6 +39,7 @@
 | [0189-rotate-array](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0283-move-zeroes/) | Easy |
+| [0414-third-maximum-number](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0414-third-maximum-number/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,4 +48,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0414-third-maximum-number](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0414-third-maximum-number/) | Easy |
 <!---LeetCode Topics End-->

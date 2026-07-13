@@ -21,12 +21,14 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0125-valid-palindrome](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0283-move-zeroes/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0125-valid-palindrome](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0125-valid-palindrome/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |

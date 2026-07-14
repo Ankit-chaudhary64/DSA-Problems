@@ -21,6 +21,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0283-move-zeroes/) | Easy |
@@ -38,6 +39,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0066-plus-one](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0066-plus-one/) | Easy |
+| [0088-merge-sorted-array](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0283-move-zeroes/) | Easy |
@@ -49,6 +51,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0414-third-maximum-number](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0414-third-maximum-number/) | Easy |
 <!---LeetCode Topics End-->

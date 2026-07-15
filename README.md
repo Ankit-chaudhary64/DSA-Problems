@@ -12,6 +12,7 @@
 | [0002-add-two-numbers](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0066-plus-one](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0189-rotate-array/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,4 +60,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0152-maximum-product-subarray](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0152-maximum-product-subarray/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->

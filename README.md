@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0189-rotate-array/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@
 | [0125-valid-palindrome](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0283-move-zeroes/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +48,7 @@
 | [0217-contains-duplicate](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0414-third-maximum-number/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +59,7 @@
 | [0088-merge-sorted-array](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0217-contains-duplicate/) | Easy |
 | [0414-third-maximum-number](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0414-third-maximum-number/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +68,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 <!---LeetCode Topics End-->

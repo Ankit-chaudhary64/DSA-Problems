@@ -47,6 +47,7 @@
 | [0189-rotate-array](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -86,4 +87,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->

@@ -12,6 +12,7 @@
 | [0002-add-two-numbers](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0066-plus-one](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0189-rotate-array/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Recursion
@@ -50,11 +51,13 @@
 | [0238-product-of-array-except-self](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0283-move-zeroes/) | Easy |
 | [0414-third-maximum-number](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0414-third-maximum-number/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0217-contains-duplicate/) | Easy |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +72,7 @@
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
@@ -79,6 +83,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,4 +93,13 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0238-product-of-array-except-self/) | Medium |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 <!---LeetCode Topics End-->

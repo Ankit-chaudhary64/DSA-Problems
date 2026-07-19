@@ -36,6 +36,7 @@
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0125-valid-palindrome](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0125-valid-palindrome/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,4 +114,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0011-container-with-most-water/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 <!---LeetCode Topics End-->

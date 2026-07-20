@@ -47,6 +47,7 @@
 | [0011-container-with-most-water](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0039-combination-sum](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0039-combination-sum/) | Medium |
 | [0066-plus-one](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -129,4 +130,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/1260-shift-2d-grid/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->

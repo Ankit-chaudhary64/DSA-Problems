@@ -50,6 +50,7 @@
 | [0039-combination-sum](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0039-combination-sum/) | Medium |
 | [0066-plus-one](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0189-rotate-array](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -76,6 +77,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/Ankit-chaudhary64/DSA-Problems/tree/main/0152-maximum-product-subarray/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
